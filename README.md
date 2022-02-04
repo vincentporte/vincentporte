@@ -1,4 +1,7 @@
-### Hi there 👋
+### work like a captain, play like a pirat, make things happen !
+
+🌱 see U [here](https://www.neuralia.co), [here](https://www.swiloh.com) and [here](https://www.rencontrerlarche.com)… 
+🔭 onboard on [itou.beta.gouv.fr](https://github.com/betagouv/itou)
 
 <!--
 **vincentporte/vincentporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
