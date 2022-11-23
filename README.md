@@ -2,7 +2,7 @@
 
 🌱 see U [here](https://vincentporte.gitlab.io/), [here](https://www.neuralia.co) and [here](https://www.rencontrerlarche.com)… 
 
-🔭 onboarded on "[La communauté de l'inclusion](https://communaute-experimentation.inclusion.beta.gouv.fr/) [repo](https://github.com/betagouv/itou-communaute-django)"
+🔭 onboarded on "[La communauté de l'inclusion](https://communaute-experimentation.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou-communaute-django))
 
 <!--
 **vincentporte/vincentporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
