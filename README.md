@@ -4,7 +4,7 @@
 
 🔭 onboarded on "[La communauté de l'inclusion](https://communaute.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou-communaute-django)) & "[Les emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou))
 
-🦺 I’m currently moving to neovim for productivity purposes 
+🦺 I’m currently moving to [neovim](https://neovim.io/) for productivity purposes 
 
 <!--
 **vincentporte/vincentporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
