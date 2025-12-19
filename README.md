@@ -1,10 +1,11 @@
 #### work like a captain, play like a pirat, make things happen !
 
-⚡ see U [here](https://vincentporte.gitlab.io/) and [here](https://www.neuralia.co)
+⚡ see U [here](https://vincentporte.gitlab.io/)
 
-🦺 contribute to "[La communauté de l'inclusion](https://communaute.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou-communaute-django)) & "[Les emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou))
+🔭 contributing to [CSP Lab](https://beta.gouv.fr/startups/csplab.html) ([repo](https://github.com/betagouv/csplab))
+🦺 contributed to "[La communauté de l'inclusion](https://communaute.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou-communaute-django)) & "[Les emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)" ([repo](https://github.com/betagouv/itou))
 
-🌱 I’m currently moving to [neovim](https://neovim.io/) for productivity purposes 
+🌱 recently moved to [neovim](https://neovim.io/) & [ergol layout](https://ergol.org/) for productivity purposes 
 
 <!--
 **vincentporte/vincentporte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
